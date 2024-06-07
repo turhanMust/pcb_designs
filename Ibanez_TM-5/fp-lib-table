@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PT01")(type "KiCad")(uri "${KIPRJMOD}/PT01_D125D_B503")(options "")(descr "pot"))
+)

@@ -1,0 +1,13 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "OPA541")(type "KiCad")(uri "C:/Users/mturh/Downloads/ul_OPA541AP/KiCADv6/2024-05-02_07-39-51.kicad_sym")(options "")(descr "OPA541 opamp"))
+  (lib (name "OPA548")(type "KiCad")(uri "C:/Users/mturh/Downloads/ul_OPA548F-500/KiCADv6/2024-05-02_14-29-39.kicad_sym")(options "")(descr "OPA548 opamp"))
+  (lib (name "TPS55340")(type "KiCad")(uri "C:/Users/mturh/Downloads/ul_TPS55340PWP/KiCADv6/2024-05-06_13-55-18.kicad_sym")(options "")(descr "TPS55340"))
+  (lib (name "tps56")(type "KiCad")(uri "C:/Users/mturh/Downloads/ul_TPS55340PWP (1)/KiCADv6/2024-05-06_13-57-22.kicad_sym")(options "")(descr "tps56 Boost regulator"))
+  (lib (name "XAL6060")(type "KiCad")(uri "C:/Users/mturh/Downloads/ul_XAL6060-103ME/KiCADv6/2024-05-07_06-42-03.kicad_sym")(options "")(descr "XAL6060 Inductor"))
+  (lib (name "SSB44")(type "KiCad")(uri "C:/Users/mturh/Downloads/ul_SSB44-E3-52T/KiCADv6/2024-05-07_06-48-39.kicad_sym")(options "")(descr "SSB44 Schottky Diode"))
+  (lib (name "TPS54260")(type "KiCad")(uri "C:/Users/mturh/Downloads/ul_TPS54260DGQ/KiCADv6/2024-05-07_09-19-32.kicad_sym")(options "")(descr "TPS54260 buck regulator"))
+  (lib (name "OPA544T")(type "KiCad")(uri "C:/Users/mturh/Downloads/ul_OPA544T/KiCADv6/2024-05-14_09-37-23.kicad_sym")(options "")(descr "OPA544T opamp"))
+  (lib (name "TPS54360")(type "KiCad")(uri "${KIPRJMOD}/ul_TPS54360DDA/KiCADv6/2024-05-17_13-24-27.kicad_sym")(options "")(descr "TPS54360 buck converter"))
+  (lib (name "744783")(type "KiCad")(uri "${KIPRJMOD}/ul_744873470/KiCADv6/2024-05-17_13-52-10.kicad_sym")(options "")(descr "Wurth coupled inductor"))
+)

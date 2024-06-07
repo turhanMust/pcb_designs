@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C3",0805,2,4u7,
+"C2, C4",0603,2,100n,
+"J2, J3",SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount,2,SMA,
+J4,BarrelJack_Horizontal,1,Barrel_Jack_MountingPin,
+R1,0603,1,10k,
+"R2, R3",1210,2,5,
+RV1,Potentiometer_Bourns_3296W_Vertical,1,B503,
+U1,SCW12&slash_DCW12_MWU,1,DCW12A-15,
+U3,KC5,1,OPA544T,
